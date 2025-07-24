@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>{{ post.title }}</h1>
+<div>{{ post.content|safe }}</div>
+
+<h3>Recommended Posts</h3>
+<ul>
+  {% for rec in recommendations %}
+    <li><a href="{% url 'post-detail' slug=rec.slug %}">{{ rec.title }}</a></li>
+  {% empty %}
+    <li>No recommendations available.</li>
+  {% endfor %}
+</ul>
+{% endblock %}
